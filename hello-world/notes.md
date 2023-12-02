@@ -13,7 +13,10 @@
 # Basic go types
  | Type         | Examples                         |  
 |--------------|-----------------------------------|
-| bool         | true, false                       |
+| bool         | true, false                       |chrome downloadarc d
 | string       | "Hi", "Hello World!"              |
 | int          | 0, -100, 9999                     |
 | float64      | 3.1415926597, 0.0000999, 13242.84 |
+
+
+image.png
